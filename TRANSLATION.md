@@ -181,7 +181,9 @@ React elements are [immutable](https://en.wikipedia.org/wiki/Immutable_object).
 | child component | дочерний компонент |
 | class component | классовый компонент |
 | cleanup | сброс (*напр., сбрасываемый эффект, сбросить эффект, сбрасывающая функция*) |
+| codemod | codemod-скрипт |
 | code splitting | разделение кода |
+| codemod | codemod-скрипт |
 | commit | фиксация |
 | context | контекст |
 | (un)controlled component | (не)контролируемый компонент |
